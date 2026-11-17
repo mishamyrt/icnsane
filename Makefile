@@ -1,4 +1,4 @@
-VERSION = 0.0.0
+VERSION = 0.1.0
 .DEFAULT_GOAL := build
 
 .PHONY: all build clean lint fmt test check publish
